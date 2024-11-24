@@ -11,6 +11,7 @@
   - [x] **Gallery:** `pages/gallery.html`
 
 ### <s>Home</s>
+
 - [x] Intro about growing up on the move
 - [x] **Araguari, MG**
 - Araguari, MG: A City of Hidden Charm
@@ -84,22 +85,22 @@ Would you like me to refine or personalize any of these further?
 
 ### Feedback
 
-- [ ] Create `form` with `fieldset`
-- [ ] **Form:**
-  - [ ] **~Input 1~**
-    - [ ] **label:** Name:
-    - [ ] **text:** `name`
-  - [ ] **~Input 2~**
-    - [ ] **label:** Title:
-    - [ ] **text:** `feeback-title`
-  - [ ] **~Input 3~**
-    - [ ] **p:** Select the cities your feedback applies to:
-    - [ ] **labels:** _all the cities_
-    - [ ] **checkboxes:** `cities`
-  - [ ] **~Input 4~**
-    - [ ] **label:** Feedback:
-    - [ ] **textarea:** `feedback`
-  - [ ] **button:** `submit`
+- [x] Create `form` with `fieldset`
+- [x] **Form:**
+  - [x] **Input 1**
+    - [x] **label:** Name:
+    - [x] **text:** `name`
+  - [x] **Input 2**
+    - [x] **label:** Feedback Title:
+    - [x] **text:** `feeback-title`
+  - [x] **Input 3**
+    - [x] **p:** Select the cities your feedback applies to:
+    - [x] **labels:** _all the cities_
+    - [x] **checkboxes:** `cities`
+  - [x] **Input 4**
+    - [x] **label:** Feedback:
+    - [x] **textarea:** `feedback`
+  - [x] **button:** `submit`
 
 ### Wiki Links
 

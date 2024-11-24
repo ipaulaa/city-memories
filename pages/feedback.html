@@ -16,7 +16,78 @@
         </ul>
       </nav>
     </header>
+    <main>
+      <form>
+        <fieldset>
+          <legend>Feedback</legend>
+          <div>
+            <label for="name">Name:</label>
+            <input name="name" id="name" type="text" />
+          </div>
+          <div>
+            <label for="feedback-title">Feedback Title:</label>
+            <input name="feedback-title" id="feedback-title" type="text" />
+          </div>
 
-    <h1>Feedback</h1>
+          <div>
+            <p>Select the cities your feedback applies to:</p>
+            <div>
+              <div>
+                <input type="checkbox" name="araguari" id="araguari" />
+                <label for="araguari">Araguari</label>
+              </div>
+              <div>
+                <input type="checkbox" name="bauru" id="bauru" />
+                <label for="bauru">Bauru</label>
+              </div>
+              <div>
+                <input
+                  type="checkbox"
+                  name="belo-horizonte"
+                  id="belo-horizonte" />
+                <label for="belo-horizonte">Belo Horizonte</label>
+              </div>
+              <div>
+                <input type="checkbox" name="canoas" id="canoas" />
+                <label for="canoas">Canoas</label>
+              </div>
+              <div>
+                <input type="checkbox" name="congonhas" id="congonhas" />
+                <label for="congonhas">Congonhas</label>
+              </div>
+              <div>
+                <input type="checkbox" name="curitiba" id="curitiba" />
+                <label for="curitiba">Curitiba</label>
+              </div>
+              <div>
+                <input type="checkbox" name="ipatinga" id="ipatinga" />
+                <label for="ipatinga">Ipatinga</label>
+              </div>
+              <div>
+                <input type="checkbox" name="itabira" id="itabira" />
+                <label for="itabira">Itabira</label>
+              </div>
+              <div>
+                <input type="checkbox" name="maringa" id="maringa" />
+                <label for="maringa">Maringá</label>
+              </div>
+              <div>
+                <input
+                  type="checkbox"
+                  name="santa-barbara"
+                  id="santa-barbara" />
+                <label for="santa-barbara">Santa Bárbara</label>
+              </div>
+            </div>
+          </div>
+          <div>
+            <label for="feedback">Feedback:</label>
+            <textarea name="feedback" id="feedback"></textarea>
+          </div>
+
+          <button type="submit">Submit</button>
+        </fieldset>
+      </form>
+    </main>
   </body>
 </html>
