@@ -104,21 +104,21 @@ Would you like me to refine or personalize any of these further?
 
 ### Wiki Links
 
-- [ ] Create a nested `ul` seperated by states
-  - [ ] **Minas Gerais**
-    - [ ] [Araguari - Wikipedia](https://en.wikipedia.org/wiki/Araguari)
-    - [ ] [Belo Horizonte - Wikipedia](https://en.wikipedia.org/wiki/Belo_Horizonte)
-    - [ ] [Congonhas - Wikipedia](https://en.wikipedia.org/wiki/Congonhas)
-    - [ ] [Ipatinga - Wikipedia](https://en.wikipedia.org/wiki/Ipatinga)
-    - [ ] [Itabira - Wikipedia](https://en.wikipedia.org/wiki/Itabira)
-    - [ ] [Santa Bárbara, Minas Gerais - Wikipedia](https://en.wikipedia.org/wiki/Santa_B%C3%A1rbara,_Minas_Gerais)
-  - [ ] **São Paulo**
-    - [ ] [Bauru - Wikipedia](https://en.wikipedia.org/wiki/Bauru)
+- [x] Create a nested `ul` seperated by states
+  - [x] **Minas Gerais**
+    - [x] [Araguari - Wikipedia](https://en.wikipedia.org/wiki/Araguari)
+    - [x] [Belo Horizonte - Wikipedia](https://en.wikipedia.org/wiki/Belo_Horizonte)
+    - [x] [Congonhas - Wikipedia](https://en.wikipedia.org/wiki/Congonhas)
+    - [x] [Ipatinga - Wikipedia](https://en.wikipedia.org/wiki/Ipatinga)
+    - [x] [Itabira - Wikipedia](https://en.wikipedia.org/wiki/Itabira)
+    - [x] [Santa Bárbara, Minas Gerais - Wikipedia](https://en.wikipedia.org/wiki/Santa_B%C3%A1rbara,_Minas_Gerais)
+  - [x] **São Paulo**
+    - [x] [Bauru - Wikipedia](https://en.wikipedia.org/wiki/Bauru)
   - **Rio Grande do Sul**
-    - [ ] [Canoas - Wikipedia](https://en.wikipedia.org/wiki/Canoas)
+    - [x] [Canoas - Wikipedia](https://en.wikipedia.org/wiki/Canoas)
   - **Paraná**
-    - [ ] [Curitiba - Wikipedia](https://en.wikipedia.org/wiki/Curitiba)
-    - [ ] [Maringá - Wikipedia](https://en.wikipedia.org/wiki/Maring%C3%A1)
+    - [x] [Curitiba - Wikipedia](https://en.wikipedia.org/wiki/Curitiba)
+    - [x] [Maringá - Wikipedia](https://en.wikipedia.org/wiki/Maring%C3%A1)
 
 ### Gallery
 
