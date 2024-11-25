@@ -122,16 +122,16 @@ Would you like me to refine or personalize any of these further?
 
 ### Gallery
 
-- [ ] **Images:**
-  - [ ] Araguari, MG
-  - [ ] Bauru, SP
-  - [ ] Belo Horizonte, MG
-  - [ ] Canoas, RS
-  - [ ] Congonhas, MG
-  - [ ] Curitiba, PR
-  - [ ] Ipatinga, MG
-  - [ ] Itabira, MG
-  - [ ] Maringá, PR
-  - [ ] Santa Bárbara, MG
-- [ ] **Add label to images**
-- [ ] **Click image to open source image**
+- [x] **Images:**
+  - [x] Araguari, MG
+  - [x] Bauru, SP
+  - [x] Belo Horizonte, MG
+  - [x] Canoas, RS
+  - [x] Congonhas, MG
+  - [x] Curitiba, PR
+  - [x] Ipatinga, MG
+  - [x] Itabira, MG
+  - [x] Maringá, PR
+  - [x] Santa Bárbara, MG
+- [x] **Add label to images**
+- [x] **Click image to open source image**
